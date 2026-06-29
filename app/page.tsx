@@ -17,6 +17,7 @@ export default function Home() {
       <Navbar />
 
       <Hero />
+      <Services />
 
       <WhyChooseUs/>
 
@@ -24,8 +25,7 @@ export default function Home() {
 
       <Stats />
 
-      <Services />
-
+      
       <Projects />
 
       <Testimonials />

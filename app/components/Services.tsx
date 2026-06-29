@@ -63,7 +63,7 @@ export default function Services() {
           <p className="mx-auto mt-6 max-w-3xl text-lg text-gray-600">
             We provide end-to-end solar EPC solutions for homes,
             businesses, industries and agricultural applications across
-            Haryana.
+            Haryana,Delhi ,Uttar pradesh and Madhya pradesh.
           </p>
 
         </div>
