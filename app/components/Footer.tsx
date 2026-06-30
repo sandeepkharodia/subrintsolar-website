@@ -10,10 +10,10 @@ export default function Footer() {
           Contact Us
         </h2>
 
-        <p>Sandeep</p>
+        <p>Sandeep Rao</p>
         <p>📞 +91 9650704703</p>
         <p>✉️ subrintsolar@gmail.com</p>
-        <p>📍 VPO Sulodha, Jhajjar, Haryana</p>
+        <p>📍 Jhajjar, Haryana</p>
 
         <hr className="my-8" />
 

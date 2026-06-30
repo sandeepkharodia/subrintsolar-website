@@ -45,7 +45,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "Subrint Solar",
     description:
-      "Professional Solar Installation Company in Haryana.",
+      "Professional Solar Installation Company in Haryana,Delhi.",
 
     url: "https://subrintsolar.in",
 
@@ -71,7 +71,7 @@ export const metadata: Metadata = {
     title: "Subrint Solar",
 
     description:
-      "Professional Solar Company in Haryana",
+      "Professional Solar Company in Haryana,Delhi",
 
     images: ["/og-image.jpg"],
   },

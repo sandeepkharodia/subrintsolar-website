@@ -89,7 +89,7 @@ export default function Contact() {
               <div className="flex items-center gap-4">
                 <MapPin className="text-orange-500" />
                 <span>
-                  VPO Sulodha, Tehsil & District Jhajjar, Haryana
+                  Jhajjar, Haryana
                 </span>
               </div>
 

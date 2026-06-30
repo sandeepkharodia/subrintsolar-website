@@ -20,7 +20,7 @@ export default function Hero() {
             transition={{ duration: 0.8 }}
           >
             <span className="rounded-full bg-yellow-400 px-4 py-2 text-sm font-semibold text-black">
-              🌞 Haryana's Trusted Solar Installation Company
+              🌞  Trusted Solar Installation Company in Haryana and Delhi
             </span>
 
             <h1 className="mt-8 text-5xl font-extrabold leading-tight lg:text-7xl">
@@ -32,7 +32,7 @@ export default function Hero() {
 
             <p className="mt-8 max-w-xl text-lg text-gray-200">
               Subrint Solar provides residential, commercial and industrial
-              solar solutions across Haryana with premium equipment,
+              solar solutions across Haryana and Delhi with premium equipment,
               expert installation and government subsidy assistance.
             </p>
 
